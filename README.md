@@ -12,3 +12,10 @@ It is funded during 2016-2017 by a Commissioned Learning & Teaching grant of $30
 * Mark Utting
 * Jacqui Blake
 * Dion Keetley
+
+## Example Outputs
+
+* In 2016 we developed a Powerpoint template for the CAVE, plus best-practice guidelines for how to use Powerpoint in the CAVE.  This template was used by over ten student groups in the MKG221 Sport and Event Marketing course during 2016 Semester 2 to present their case studies in the CAVE.  Here is an [example presentation] (images/20160919_172607_Pano_small.jpg).
+
+* In 2017 we developed an Anatomy App to display the 3D Human models from [BioDigital] (https://biodigital.com) in the CAVE.  It supports timed quizzes, to test student's anatomy knowledge.  The app is built using the SAGE2 (Scalable Amplified Group Environment) environment for large shared displays.  It is the first CAVE app at USC that allows ALL the students in the CAVE to interact with the displayed content simultaneously, by using their mobile phone to control a SAGE2 pointer.  Now that we have learnt how to build SAGE2 apps, we can easily adapt any other interactive web site to work in the CAVE using SAGE2.  Here is an example of several groups of people doing the [quizzes in the CAVE] (images/20170731_anatomy_app.jpg).
+  
