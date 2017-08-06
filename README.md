@@ -1,4 +1,4 @@
-# USC SLICE Project
+# Project Summary
 
 The SLICE (Student-Led In-CAVE Exploration) project at USC (University of the Sunshine Coast) is aimed at developing new teaching software for our CAVE2 environment (a 320-degree circular CAVE with an 84 mega-pixel display).  The two main goals of the SLICE project are:
 
