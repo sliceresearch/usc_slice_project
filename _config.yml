@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: USC SLICE Research
-description: Develop and evaluate learning and teaching applications for CAVE2 and collaborative video wall touch screen facilities @usceduau
+description: Develop and evaluate learning and teaching applications for CAVE2 and collaborative video wall facilities @usceduau
+site.github.is_project_page: "false"
